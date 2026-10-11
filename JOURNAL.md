@@ -1,0 +1,6 @@
+# Engagement journal (1-2 pages, your own words, paragraphs)
+## Before I looked (3 predictions, committed before loading the data)
+## What I did, in order (include dead ends)
+## What surprised me (and exactly how I checked it was real)
+## What I revised (one paragraph each: before / what the data showed / what I changed)
+## What I still don't trust (at least two things)
